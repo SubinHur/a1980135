@@ -1,1 +1,1 @@
-history
+git pull

@@ -1,1 +1,1 @@
-ls -a
+git commit -m "Initial commit"

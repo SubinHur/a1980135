@@ -1,1 +1,1 @@
-cd my_directory
+git remote -v

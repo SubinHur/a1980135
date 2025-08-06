@@ -1,1 +1,1 @@
-echo "This is a test file." > my_file.txt
+git push -u origin main

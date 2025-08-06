@@ -1,1 +1,1 @@
-cp new_file.txt copy_file.txt
+git switch main

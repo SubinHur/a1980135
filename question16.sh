@@ -1,1 +1,1 @@
-rmdir my_directory
+git branch -d feature

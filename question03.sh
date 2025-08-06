@@ -1,1 +1,1 @@
-pwd
+git init

@@ -1,1 +1,1 @@
-mkdir my_directory
+git remote add origin https://github.com/SubinHur/a1980135.git

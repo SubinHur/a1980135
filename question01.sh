@@ -1,1 +1,1 @@
-echo foo
+git config --global user.name "SubinHur"

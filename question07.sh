@@ -1,1 +1,1 @@
-cd ..
+git log

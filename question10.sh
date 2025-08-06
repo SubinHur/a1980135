@@ -1,1 +1,1 @@
-touch my_file.txt
+git branch -M main
