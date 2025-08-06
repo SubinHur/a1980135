@@ -1,0 +1,1 @@
+rm copy_file.txt
