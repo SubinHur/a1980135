@@ -1,1 +1,1 @@
-git status
+git commit -m "commit staged changes"

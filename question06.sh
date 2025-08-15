@@ -1,1 +1,2 @@
-git commit -m "Initial commit"
+git add -u
+git commit -m "commit modified files"

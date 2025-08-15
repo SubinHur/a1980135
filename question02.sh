@@ -1,1 +1,1 @@
-git config --global user.email "a1980135@adelaide.edu.au"
+git init

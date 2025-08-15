@@ -1,1 +1,3 @@
-git remote add origin https://github.com/SubinHur/a1980135.git
+mkdir -p dir2
+git mv -- *.txt dir2/
+git commit -m "move txt files to dir2"
